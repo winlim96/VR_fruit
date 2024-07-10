@@ -1,7 +1,5 @@
 {
   "dependencies": {
-<<<<<<< HEAD
-=======
     "com.unity.inputsystem": {
       "version": "1.7.0",
       "depth": 1,
@@ -104,7 +102,6 @@
       },
       "url": "https://packages.unity.com"
     },
->>>>>>> a3212ad5b756723395451f12122563db216d4000
     "com.unity.modules.ai": {
       "version": "1.0.0",
       "depth": 0,
